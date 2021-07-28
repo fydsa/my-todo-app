@@ -1,11 +1,5 @@
-import React from 'react'
+import React from 'react';
 
+const TaskList: React.FC = () => <></>;
 
-const TaskList: React.FC = () => {
-    return (
-        <>
-        </>
-    )
-}
-
-export default TaskList
+export default TaskList;

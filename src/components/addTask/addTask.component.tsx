@@ -1,11 +1,5 @@
-import React from 'react'
+import React from 'react';
 
+const AddTask: React.FC = () => <></>;
 
-const AddTask: React.FC = () => {
-    return (
-        <>
-        </>
-    )
-}
-
-export default AddTask
+export default AddTask;

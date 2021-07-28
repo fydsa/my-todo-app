@@ -1,11 +1,5 @@
-import React from 'react'
+import React from 'react';
 
+const TaskItem: React.FC = () => <></>;
 
-const TaskItem: React.FC = () => {
-    return (
-        <>
-        </>
-    )
-}
-
-export default TaskItem
+export default TaskItem;
