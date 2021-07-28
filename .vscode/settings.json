@@ -9,6 +9,7 @@
   "[javascriptreact]": {
     "editor.formatOnSave": false
   },
+  "prettier.singleQuote": true,
   "eslint.validate": [
     "javascript",
     "javascriptreact",
